@@ -9,4 +9,4 @@ function doConnection(){
     });
 }
 
-module.exports = doConnection;
+module.exports = function(){return doConnection};
