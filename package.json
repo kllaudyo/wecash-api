@@ -1,0 +1,19 @@
+{
+  "name": "wecash-api",
+  "version": "1.0.0",
+  "description": "Backend em node do WeCa$h",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kllaudyo/wecash-api.git"
+  },
+  "author": "Claudio Acioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kllaudyo/wecash-api/issues"
+  },
+  "homepage": "https://github.com/kllaudyo/wecash-api#readme"
+}
