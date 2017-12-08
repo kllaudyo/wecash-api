@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kllaudyo/wecash-api/issues"
   },
-  "homepage": "https://github.com/kllaudyo/wecash-api#readme"
+  "homepage": "https://github.com/kllaudyo/wecash-api#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
